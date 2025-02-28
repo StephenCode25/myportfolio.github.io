@@ -1,3 +1,5 @@
 title: Ayush Stephen Toppo
-show_downloads: true
+logo: Folder1/MyPhoto.png
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
