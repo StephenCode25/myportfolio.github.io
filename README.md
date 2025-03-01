@@ -30,7 +30,7 @@ This project investigated median income increases across New York counties from 
 
 ### Predicting Yelp Review Popularity 
 
-[Project3](https://github.com/StephenCode24/myportfolio.github.io/tree/main/Project3)
+[Project3](https://github.com/StephenACodes/myportfolio.github.io/tree/main/Project3)
 
 The insights generated from this project were tailored to enhance Yelp’s review management system to support a more engaging customer experience. The project aimed to predict which reviews are most likely to be useful and popular. Leveraging Big Data frameworks and natural language processing techniques, it analyzed key factors influencing review utility, enabling the development of machine learning models that accurately forecast review popularity.  
 
