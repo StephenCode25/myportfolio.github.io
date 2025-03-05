@@ -20,9 +20,15 @@ Python, R, C++, Java, SQL, PowerBI, Tableau, Google Cloud Computing, Advanced Ex
 
 This project analyzed factors influencing Airbnb prices in New York City using statistical analysis methods and data visualization. It included property segmentation based on characteristics like location and amenities, and audience analysis to assess market demand and pricing trends across neighborhoods. The insights aid stakeholders in developing data-driven pricing strategies for selecting the best places.  
 
+### An Analysis of Airbnb Prices in New York City
+
+[Project2](https://github.com/StephenACodes/Northwind-Traders-SQL-Analysis)
+
+This project is comprehensive SQL analysis of the Northwind Traders database, exploring data insights through complex queries, joins and CTEs. This project involved analyzing sales revenue, customer behavior, suppliers, operational efficiency and logistics to derive actionable insights for business improvement.
+
 ### Comparing Machine Learning Methods for Predicting Income Increase 
 
-[Project2](Project2/ST443.html)
+[Project3](Project2/ST443.html)
 
 [Project Report](Project2/ML%20Report.pdf)
 
@@ -30,7 +36,7 @@ This project investigated median income increases across New York counties from 
 
 ### Predicting Yelp Review Popularity 
 
-[Project3](https://github.com/StephenACodes/myportfolio.github.io/tree/main/Project3)
+[Project4](https://github.com/StephenACodes/myportfolio.github.io/tree/main/Project3)
 
 The insights generated from this project were tailored to enhance Yelp’s review management system to support a more engaging customer experience. The project aimed to predict which reviews are most likely to be useful and popular. Leveraging Big Data frameworks and natural language processing techniques, it analyzed key factors influencing review utility, enabling the development of machine learning models that accurately forecast review popularity.  
 
@@ -38,7 +44,7 @@ The insights generated from this project were tailored to enhance Yelp’s revie
 
 [Project Report](Project4/Coordinate%20Descent%20Algorithm.pdf)
 
-[Project 4](Project4/Coordinate%20Descent%20Algorithm.R)
+[Project5](Project4/Coordinate%20Descent%20Algorithm.R)
 
 This project involved developing coordinate descent algorithms to solve lasso and elastic net regression problems, with a focus on optimizing predictive accuracy and variable selection. K-fold cross-validation was applied to fine-tune models using mean-squared error (MSE) values for optimization. Performance was analyzed across scenarios where the number of data points (n) exceeds the number of variables (p), and where variables (p) exceed data points (n). The results demonstrated that elastic net outperforms lasso, particularly in complex scenarios with highly correlated variables and limited data availability.
 
