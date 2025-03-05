@@ -20,7 +20,7 @@ Python, R, C++, Java, SQL, PowerBI, Tableau, Google Cloud Computing, Advanced Ex
 
 This project analyzed factors influencing Airbnb prices in New York City using statistical analysis methods and data visualization. It included property segmentation based on characteristics like location and amenities, and audience analysis to assess market demand and pricing trends across neighborhoods. The insights aid stakeholders in developing data-driven pricing strategies for selecting the best places.  
 
-### An Analysis of Airbnb Prices in New York City
+### Northwind Traders SQL Analysis
 
 [Project2](https://github.com/StephenACodes/Northwind-Traders-SQL-Analysis)
 
