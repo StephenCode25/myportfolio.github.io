@@ -17,6 +17,7 @@ Python, R, C++, Java, SQL, PowerBI, Tableau, Google Cloud Computing, Advanced Ex
 ### An Analysis of Airbnb Prices in New York City
 
 [Project1](Project1/Airbnb.html)
+![PowerBI Dashboard](Project1/AirbnbDahboard.png)
 
 This project analyzed factors influencing Airbnb prices in New York City using statistical analysis methods and data visualization. It included property segmentation based on characteristics like location and amenities, and audience analysis to assess market demand and pricing trends across neighborhoods. The insights aid stakeholders in developing data-driven pricing strategies for selecting the best places.  
 
