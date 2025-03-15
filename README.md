@@ -20,7 +20,7 @@ Python, R, C++, Java, SQL, PowerBI, Tableau, Google Cloud Computing, Advanced Ex
 
 ![PowerBI Dashboard](Project1/AirbnbDahboard.png)
 
-This project analyzed factors influencing Airbnb prices in New York City using statistical analysis methods and data visualization. It included property segmentation based on characteristics like location and amenities, and audience analysis to assess market demand and pricing trends across neighborhoods. The insights aid stakeholders in developing data-driven pricing strategies for selecting the best places.  
+This project analyzed factors influencing Airbnb prices in New York City using statistical analysis methods and data visualization. It included property segmentation based on characteristics like location and amenities, and audience analysis to assess market demand and pricing trends across neighborhoods. The insights aid stakeholders in developing data-driven pricing strategies for selecting the best places. A Power BI dashboard was created to visualize the findings, incorporating DAX queries for dynamic calculations and Power Query for data transformation, enabling interactive analysis of pricing trends and market dynamics across different neighborhoods.
 
 ### Northwind Traders SQL Analysis
 
